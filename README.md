@@ -1,5 +1,7 @@
 reference: https://blog.csdn.net/aliceyangxi1987/article/details/73420583
 
+Keywords: Keras, lstm, sklearn, matplotlib
+
 问题：航班乘客预测 
 数据：1949 到 1960 一共 12 年，每年 12 个月的数据，一共 144 个数据，单位是 1000 
 下载地址 
